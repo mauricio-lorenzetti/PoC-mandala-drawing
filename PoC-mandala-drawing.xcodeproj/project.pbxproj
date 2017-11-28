@@ -12,6 +12,8 @@
 		2229F8821FCCC82A0063E123 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2229F8801FCCC82A0063E123 /* Main.storyboard */; };
 		2229F8841FCCC82A0063E123 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2229F8831FCCC82A0063E123 /* Assets.xcassets */; };
 		2229F8871FCCC82A0063E123 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2229F8851FCCC82A0063E123 /* LaunchScreen.storyboard */; };
+		2229F8B61FCCCFC50063E123 /* mouse.png in Resources */ = {isa = PBXBuildFile; fileRef = 2229F8B41FCCCFC50063E123 /* mouse.png */; };
+		2229F8B71FCCCFC50063E123 /* mouse@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2229F8B51FCCCFC50063E123 /* mouse@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		2229F8831FCCC82A0063E123 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2229F8861FCCC82A0063E123 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2229F8881FCCC82A0063E123 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2229F8B41FCCCFC50063E123 /* mouse.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mouse.png; sourceTree = "<group>"; };
+		2229F8B51FCCCFC50063E123 /* mouse@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "mouse@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				2229F8831FCCC82A0063E123 /* Assets.xcassets */,
 				2229F8851FCCC82A0063E123 /* LaunchScreen.storyboard */,
 				2229F8881FCCC82A0063E123 /* Info.plist */,
+				2229F8B41FCCCFC50063E123 /* mouse.png */,
+				2229F8B51FCCCFC50063E123 /* mouse@2x.png */,
 			);
 			path = "PoC-mandala-drawing";
 			sourceTree = "<group>";
@@ -123,7 +129,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2229F8B71FCCCFC50063E123 /* mouse@2x.png in Resources */,
 				2229F8871FCCC82A0063E123 /* LaunchScreen.storyboard in Resources */,
+				2229F8B61FCCCFC50063E123 /* mouse.png in Resources */,
 				2229F8841FCCC82A0063E123 /* Assets.xcassets in Resources */,
 				2229F8821FCCC82A0063E123 /* Main.storyboard in Resources */,
 			);
